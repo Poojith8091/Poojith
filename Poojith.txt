@@ -1,3 +1,5 @@
 Inserting Git:wq
 iTjnkj
 jnjnkj
+THis is different 
+Merge conflie
