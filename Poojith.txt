@@ -1,2 +1,3 @@
 Inserting Git:wq
-
+THis is different 
+Merge conflie
